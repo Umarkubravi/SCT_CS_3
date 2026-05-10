@@ -36,21 +36,3 @@ The program evaluates the password using the following rules:
 ```bash
 Enter your password: Umar@123
 Password Strength: Strong Password 💪
-```
-
-## How to Run
-
-1. Open terminal in the project folder
-2. Run the program:
-
-```bash
-python password_checker.py
-```
-
-## Project Structure
-
-```bash
-PasswordStrengthChecker/
-│
-├── password_checker.py
-└── README.md
